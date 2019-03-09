@@ -1,0 +1,6 @@
+ first of all we made a repository MAD-314-1896477	
+ In step 2 we clone this repository using the clone command.
+ In step 3 then i copy the instructions .txt file from mad314 asssingment to my repositry
+ In step 4 i add my file using git add
+ In step 5 i did commit using commit command
+ In step 6 i push using push command
